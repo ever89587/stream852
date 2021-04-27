@@ -1,0 +1,9 @@
+Example:
+Sky News Live
+https://www.youtube.com/watch?v=y60wDzZt8yg
+
+For Panel
+http://127.0.0.1/youtube.php?watch?v=y60wDzZt8yg
+
+http://127.0.0.1/youtube.php? + watch?v=y60wDzZt8yg
+
